@@ -1,2 +1,2 @@
-# cs102-4
-CS102-4 Further Computing Jupyter notebooks.  
+# CS102
+CS102 Further Computing Jupyter notebooks.  
