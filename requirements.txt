@@ -1,5 +1,7 @@
+--find-links https://pypi.anaconda.org/scipy-wheels-nightly/simple/scikit-learn
+--pre
+scikit-learn
 numpy
 pandas
 seaborn
 matplotlib
-sklearn
